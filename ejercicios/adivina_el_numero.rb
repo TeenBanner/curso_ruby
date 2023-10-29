@@ -10,3 +10,5 @@ until numero_jugador == numero_secreto or intentos == 0 do
   print "te equivocaste intenta de nuevo: "
   intentos - 1
 end
+
+puts "Felicidades ganaste"
